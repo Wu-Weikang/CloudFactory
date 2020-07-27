@@ -1,0 +1,7 @@
+{"account":"111","password":"111","name":"伍伟康","contactNumber":13318357689,"registrationType":"系统管理员"}
+{"account":"333","password":"333","name":"马云云","contactNumber":13318357689,"registrationType":"经销商"}
+{"account":"666","password":"666","name":"阿瑟东","contactNumber":1321651,"registrationType":"经销商"}
+{"factory":{"name":"222用户的云工厂","intro":"","status":"正常","equipmentList":[],"orderList":[]},"account":"222","password":"222","name":"阿斯顿","contactNumber":1391561313165,"registrationType":"云工厂管理员"}
+{"factory":{"name":"444用户的云工厂","intro":"","status":"正常","equipmentList":[],"orderList":[]},"account":"444","password":"444","name":"周星驰","contactNumber":156113165,"registrationType":"云工厂管理员"}
+{"factory":{"name":"化肥工厂","intro":"生产化肥","status":"正常","equipmentList":[],"orderList":[]},"account":"999","password":"999","name":"周小川","contactNumber":13940239791,"registrationType":"云工厂管理员"}
+{"account":"888","password":"888","name":"马齿苋","contactNumber":159156213213,"registrationType":"经销商"}

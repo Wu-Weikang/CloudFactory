@@ -1,0 +1,4 @@
+{"name":"珠宝首饰","productList":[{"code":1595438496509,"name":"钻石","type":"珠宝首饰","specification":"5kl","describe":"亮晶晶"}]}
+{"name":"生活用品","productList":[{"code":1595438513046,"name":"水壶","type":"生活用品","specification":"600ml","describe":"喝水"},{"code":1595493274287,"name":"毛巾","type":"生活用品","specification":"30cm*60cm","describe":"贴身放心"}]}
+{"name":"手机周边","productList":[{"code":1595493225098,"name":"iPhoneX手机壳","type":"手机周边","specification":"10cm*20cm","describe":"保护手机"}]}
+{"name":"工艺品","productList":[{"code":1595493243518,"name":"陶瓷杯","type":"工艺品","specification":"700ml","describe":"收藏"}]}

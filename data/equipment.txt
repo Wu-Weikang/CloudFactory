@@ -1,0 +1,5 @@
+{"code":1595519168620,"name":"i5-智能车床","type":"车床","specification":"小","describe":"智能","status":"闲置中","rent":"已被租用","from":"出租设备","belong":"222用户的云工厂","capacityMap":{}}
+{"code":1595519207844,"name":"i7-智能铣床","type":"铣床","specification":"中","describe":"好用","status":"闲置中","rent":"未被租用","from":"出租设备","belong":"","capacityMap":{}}
+{"code":1595519281121,"name":"i9-智能车床","type":"车床","specification":"5m3","describe":"智能作业","status":"闲置中","rent":"工厂设备","from":"自有设备","belong":"222用户的云工厂","capacityMap":{}}
+{"code":1595519324077,"name":"i9-智能镗床","type":"镗床","specification":"6m3","describe":"半自动","status":"闲置中","rent":"工厂设备","from":"自有设备","belong":"222用户的云工厂","capacityMap":{}}
+{"code":1595562871743,"name":"i8-智能设备","type":"铣床","specification":"5m3","describe":"123","status":"闲置中","rent":"未被租用","from":"出租设备","belong":"","capacityMap":{}}
